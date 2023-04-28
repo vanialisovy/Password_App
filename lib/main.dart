@@ -204,7 +204,7 @@ class _TextFieldScreenState extends State<TextFieldScreen> {
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
               Text(
-                "Виконав:\nЛісовий Іван Вадимович",
+                "Виконав:\nЛісовий Іван Вадимович ",
                 style: TextStyle(
                     fontSize: 20,
                     color: Colors.red,
